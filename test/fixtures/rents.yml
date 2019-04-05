@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rent_date: 2019-04-05
+  return_date: 2019-04-05
+  member: one
+  cassette: one
+
+two:
+  rent_date: 2019-04-05
+  return_date: 2019-04-05
+  member: two
+  cassette: two
